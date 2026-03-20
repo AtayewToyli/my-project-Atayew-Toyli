@@ -1,0 +1,11 @@
+commit 48f68cf16ed50f30487b50624f2509351a027924
+Author: [200~AtayewToyli~ <ataevtojli04@gmail.com>
+Date:   Fri Mar 20 12:38:21 2026 +0300
+
+    add:project description
+
+commit b7bff1d0f77e59fe9af04f7bd53f153238d9aea7
+Author: AtayewToyli <ataevtojli04@gmail.com>
+Date:   Fri Mar 20 11:57:00 2026 +0300
+
+    Initial commit
