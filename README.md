@@ -56,85 +56,84 @@ MIT License
 ---
 
 # Отчет по контрольной работе
-# Отчет по контрольной работе
 
 ## Задача 1
-Создал ветку feature/project-title
+Создал ветку feature/project-title, добавил заголовок
 
 ![Скрин](1.png)
 
 ## Задача 2
-Создал ветку feature/project
+Создал ветку feature/project, добавил папку src и файл main.c
 
 ![Скрин](2.png)
 
 ## Задача 3
-Создал ветку feature/description
+Создал ветку feature/description, добавил раздел Description
 
 ![Скрин](3.png)
 
 ## Задача 4
-Создал ветку feature/installation
+Создал ветку feature/installation, добавил раздел Installation
 
 ![Скрин](4.png)
 
 ## Задача 5
-Создал ветку feature/usage
+Создал ветку feature/usage, добавил раздел Usage
 
 ![Скрин](5.png)
 
 ## Задача 6
-Создал ветку feature/contributing
+Создал ветку feature/contributing, добавил раздел Contributing
 
 ![Скрин](6.png)
 
 ## Задача 7
-Создал ветку feature/license
+Создал ветку feature/license, добавил раздел License
 
 ![Скрин](7.png)
 
 ## Задача 8
-Создал ветку feature/contact
+Создал ветку feature/contact, добавил раздел Contact
 
 ![Скрин](8.png)
 
 ## Задача 9
-Создал ветку feature/repo-link
+Создал ветку feature/repo-link, добавил ссылку на GitHub
 
 ![Скрин](9.png)
 
 ## Задача 10
-Создал ветку feature/image
+Создал ветку feature/image, добавил изображение
 
 ![Скрин](10.png)
 
 ## Задача 11
-Создал ветку feature/commands-table
+Создал ветку feature/commands-table, добавил таблицу
 
 ![Скрин](11.png)
 
 ## Задача 12
-Создал ветку feature/versions-table
+Создал ветку feature/versions-table, добавил таблицу
 
 ![Скрин](12.png)
 
 ## Задача 13
-Создал ветку feature/todo-list
+Создал ветку feature/todo-list, добавил список задач
 
 ![Скрин](13.png)
 
 ## Задача 14
-Создал ветку feature/text-formatting
+Создал ветку feature/text-formatting, добавил форматирование
 
 ![Скрин](14.png)
 
 ## Задача 15
-Создал ветку feature/quote
+Создал ветку feature/quote, добавил цитату
 
 ![Скрин](15.png)
 
 ## Задача 16
-Создал ветку feature/badge
+Создал ветку feature/badge, добавил бейдж
 
 ![Скрин](16.png)
 
@@ -142,3 +141,5 @@ MIT License
 Создал файлы git-history.txt и git-changes.txt
 
 ![Скрин](17.png)
+
+---
